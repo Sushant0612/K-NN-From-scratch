@@ -1,2 +1,2 @@
-# K-NN-From-scratch
- 
+# K-NN-Algorithm-From-Scratch
+ K-Nearst Algorithm From Scratch
